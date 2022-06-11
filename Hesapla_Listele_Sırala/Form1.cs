@@ -63,8 +63,8 @@ namespace Hesapla_Listele_Sırala
 
 
                 text_kapa();
-                textBox6.Text = sayilar.Max().ToString();
-                textBox7.Text = sayilar.Min().ToString();
+                textBox6.Text = sayilar.Max().ToString(); // En büyük Sayı
+                textBox7.Text = sayilar.Min().ToString(); // En Küçük Sayı
 
                 // buyuk_kucuk();
             }
