@@ -1,4 +1,4 @@
-# Dizilerle_Hesaplama-Listeleme_-S-ralama
+# Dizilerle_Hesaplama_Listeleme_Siralama
 
 >Siralama 
 
